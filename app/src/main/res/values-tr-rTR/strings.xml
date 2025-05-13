@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Yabancı Kelime Defterim</string>
+    <string name="category_name">Kategori ismi</string>
+    <string name="create_category">Kategori Oluştur</string>
+    <string name="my_words">Kelimelerim</string>
+    <string name="add_word">Kelime Ekle</string>
+    <string name="foreign_word">Yabancı kelime</string>
+    <string name="meaning">Kelimenin anlamı</string>
+    <string name="word_guessing_game">Kelime Tahmin Oyunu</string>
+    <string name="select_category">Oyunu oynamak istediğin kategoriyi/kategorileri seç.</string>
+    <string name="category_all">Hepsi</string>
+    <string name="start_the_game">Oyunu başlat</string>
+    <string name="user_guess">Tahminin</string>
+    <string name="submit_answer">Tahmin Et</string>
+    <string name="game_result_message">Oyun Sonucun</string>
+    <string name="true_word">Doğru</string>
+    <string name="false_word">Yanlış</string>
+    <string name="game_result_table_description_part_one">cevaplar yeşil,</string>
+    <string name="game_result_table_description_part_two">cevaplar kırmızı renkte gösterilmiştir.</string>
+    <string name="error">Hay aksi!! Bir şeyler ters gitti. Lütfen daha sonra tekrar dene.</string>
+    <string name="add_category_success">Kelime defterinize başarılı bir şekilde bir kategori eklediniz.</string>
+    <string name="add_word_success">Kelime defterine yeni bir kelime ekledin.</string>
+    <string name="category_removed">Kategori kaldırıldı.</string>
+    <string name="word_removed">Kelime kaldırıldı.</string>
+    <string name="at_least_five_word_warning">Kelime oyunlarını oynayabilmen için kelime defterinde en az 5 kelime bulunmalı.</string>
+    <string name="empty_category_message">Kelime defterinde hiç kategori yok 😥</string>
+    <string name="empty_word_message">Kelime defterinde hiç kelime yok 😥</string>
+    <string name="user_answer">Senin Cevabın</string>
+    <string name="text_field_error">Bu alanı boş bırakamazsın</string>
+    <string name="update_cat_successfull">Kategori başarıyla güncellendi</string>
+    <string name="new_cat_name">Yeni kategori ismi</string>
+    <string name="save">Kaydet</string>
+    <string name="search">Ara</string>
+    <string name="search_empty">Görünüşe göre aradığınız kelime sözlüğünüzde yok 😥</string>
+    <string name="my_dictionary">Sözlüğüm</string>
+    <string name="appearance">Görünüm</string>
+    <string name="word_game">Kelime oyunu</string>
+
+    <string name="content_open_dict">Sözlüğü aç</string>
+
+    <string name="dict">Sözlük</string>
+    <string name="categories">Kategoriler</string>
+    <string name="games">Oyunlar</string>
+    <string name="ok">Tamam</string>
+    <string name="quiz_game">Quiz</string>
+    <string name="correct_answer">Doğru Cevap</string>
+    <string name="wrong_answer">Yanlış Cevap</string>
+    <string name="success_rate">Başarı Yüzdesi</string>
+    <string name="question">Soru</string>
+    <string name="your_answer">Cevabın</string>
+    <string name="return_games_screen">Oyunlar ekranına geri dön.</string>
+    <string name="choose_a_game">Bir Oyun Seç</string>
+
+    <string name="quiz_result_very_bad">Sonuçlar felaket! Daha fazla pratik yapmaya ihtiyacın var, ama endişelenme, başaracaksın!</string>
+    <string name="quiz_result_bad">Sonuçlar pek parlak değil, ama umutsuzluğa kapılma! Biraz daha çaba ve dikkatle çok daha iyi olabilirsin!</string>
+    <string name="quiz_result_normal">Ortalama sonuçlar, ama unutma: her şeyin bir başlangıcı vardır! Bir sonraki seviyeye çıkmak için yeni stratejiler dene!</string>
+    <string name="quiz_result_good">Harika iş! Sonuçlar iyi, ama senin için asıl önemli olan, hep daha iyiye gitmek. Devam et!</string>
+    <string name="quiz_result_very_good">Muhteşem! Sonuçlar mükemmel! Elini attığın her şeyde altın dokunuşun var gibi görünüyor. Böyle devam et!</string>
+
+    <string name="word_quiz">Kelime Quiz</string>
+    <string name="word_pairing">Kelime Eşleştirme</string>
+    <string name="word_writing">Kelime Yazma</string>
+
+    <string name="pairing_game_end">Oyunu tamamladınız! Tebrikler! Dinlenmeye değer bir mola hak ettiniz! İyi iş! 🎉</string>
+
+    <string name="min_word_warning">Kelime oyununu oynayabilmek için kelime defterinizde en az %d kelime bulunmalıdır.</string>
+
+    <string name="settings">Ayarlar</string>
+    <string name="dark_theme">Karanlık Tema</string>
+    <string name="color_themes">Temalar</string>
+    <string name="dynamic_color">Dinamik Renk</string>
+    <string name="list_type">İnce Liste Türü</string>
+    <string name="rate_app">Uygulamayı Değerlendir</string>
+    <string name="share_app">Uygulamayı Paylaş</string>
+
+    <string name="themes">Temalar</string>
+    <string name="word_lists">Kelime Listeleri</string>
+
+    <string name="word_categories">Kelime Kategorileri</string>
+    <string name="sort_alphabetically">Alfabetik Sırala</string>
+    <string name="word_not_found">Aradığınız kelime mevcut kelime listenizde yok. 😥</string>
+
+    <string name="add_word_info">Eğer birden fazla kelime anlamı ekleyecekseniz, ekleyeceğiniz kelimeleri virgül ile ayırın.</string>
+    <string name="add_category">Kategori ekle</string>
+
+    <string name="add">Ekle</string>
+    <string name="cancel">İptal</string>
+
+    <string name="word_exist">Bu kelime zaten eklenmiş.</string>
+
+    <string name="writing_game_description">Verilen kelimenin karşılığını yazın. Oyunu bitirmek istiyorsanız, ekranın sağ üst köşesindeki düğmeye basın.</string>
+
+    <string name="update_category_name">Kategori İsmini Güncelle</string>
+    <string name="update">Güncelle</string>
+
+    <string name="delete">Sil</string>
+    <string name="delete_warning">Silmek istediğinizden emin misiniz? Bu işlem geri alınamaz.</string>
+    <string name="word">Kelime</string>
+    <string name="category">Kategori</string>
+    <string name="word_importance_level">Kelime Önem Derecesi</string>
+    <string name="low">Düşük</string>
+    <string name="medium">Orta</string>
+    <string name="high">Yüksek</string>
+    <string name="sort_importance_level">Önem Derecesine Göre Sırala</string>
+    <string name="update_word">Kelimeyi Güncelle</string>
+    <string name="delete_word">Kelimeyi Sil</string>
+    <string name="delete_category">Kategoriyi Sil</string>
+</resources>

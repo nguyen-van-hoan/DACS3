@@ -1,0 +1,109 @@
+<resources>
+    <string name="app_name">My Vocabulary Notebook</string>
+    <string name="category_name">Category name</string>
+    <string name="create_category">Create Category</string>
+    <string name="my_words">My Words</string>
+    <string name="add_word">Add Word</string>
+    <string name="foreign_word">Foreign Word</string>
+    <string name="meaning">Meaning of the word</string>
+    <string name="word_guessing_game">Word Guessing Game</string>
+    <string name="select_category">Select the category/categories you want to play the game.</string>
+    <string name="category_all">All</string>
+    <string name="start_the_game">Start the game</string>
+    <string name="user_guess">Your guess</string>
+    <string name="submit_answer">Submit</string>
+    <string name="game_result_message">Your Game Result</string>
+    <string name="true_word">Correct</string>
+    <string name="false_word">Wrong</string>
+    <string name="game_result_table_description_part_one">answers are shown in green and</string>
+    <string name="game_result_table_description_part_two">answers in red.</string>
+    <string name="error">Something went wrong please try again later.</string>
+    <string name="add_category_success">You have successfully added a category to your vocabulary book.</string>
+    <string name="add_word_success">You have added a new word to the vocabulary book.</string>
+    <string name="category_removed">The category has been removed.</string>
+    <string name="word_removed">The word has been removed.</string>
+    <string name="at_least_five_word_warning">In order to play the word games, there must be at least 5 words in the word book.</string>
+    <string name="empty_category_message">There are no categories in the vocabulary book 😥</string>
+    <string name="empty_word_message">There are no words in the vocabulary book 😥</string>
+    <string name="user_answer">Your Answer</string>
+    <string name="text_field_error">Please fill in this field</string>
+    <string name="update_cat_successfull">Category updated successfully</string>
+    <string name="new_cat_name">New category name</string>
+    <string name="save">Save</string>
+    <string name="search">Search</string>
+    <string name="search_empty">Looks like the word you are looking for is not in your dictionary 😥</string>
+    <string name="my_dictionary">My Dictionary</string>
+    <string name="appearance">Appearance</string>
+    <string name="word_game">Word game</string>
+
+    <string name="content_open_dict">Open dictionary</string>
+    
+    <string name="dict">Dictionary</string>
+    <string name="categories">Categories</string>
+    <string name="games">Games</string>
+    <string name="ok">OK</string>
+    <string name="quiz_game">Quiz</string>
+    <string name="correct_answer">Correct Answer</string>
+    <string name="wrong_answer">Wrong Answer</string>
+    <string name="success_rate">Success Rate</string>
+    <string name="question">Question</string>
+    <string name="your_answer">Your Answer</string>
+    <string name="return_games_screen">Return games screen</string>
+    <string name="choose_a_game">Choose a Game</string>
+    
+    <string name="quiz_result_very_bad">Results are disastrous! You need more practice, but don\'t worry, you\'ll get there!</string>
+    <string name="quiz_result_bad">Results are not great, but don\'t lose hope! With a little more effort and attention, you can do much better!</string>
+    <string name="quiz_result_normal">Average results, but remember: every journey starts with a single step! Try new strategies to level up!</string>
+    <string name="quiz_result_good">Great job! Results are good, but what matters most is your commitment to improvement. Keep it up!</string>
+    <string name="quiz_result_very_good">Amazing! Results are outstanding! It seems like you have a golden touch in everything you do. Keep it going!</string>
+
+    <string name="word_quiz">Word Quiz</string>
+    <string name="word_pairing">Word Pairing</string>
+    <string name="word_writing">Word Writing</string>
+
+    <string name="pairing_game_end">You completed the game! Congratulations! You\'ve earned a well-deserved break! Good job! 🎉</string>
+
+    <string name="min_word_warning">In order to play the word game, there must be at least %d words in the word book.</string>
+
+    <string name="settings">Settings</string>
+    <string name="dark_theme">Dark Theme</string>
+    <string name="color_themes">Themes</string>
+    <string name="dynamic_color">Dynamic Color</string>
+    <string name="list_type">Thin List Type</string>
+    <string name="rate_app">Rate App</string>
+    <string name="share_app">Share App</string>
+
+    <string name="themes">Themes</string>
+    <string name="word_lists">Word Lists</string>
+
+    <string name="word_categories">Word Categories</string>
+    
+    <string name="sort_alphabetically">Sort Alphabetically</string>
+    <string name="word_not_found">The word you are looking for is not on your current word list 😥</string>
+
+    <string name="add_word_info">If you add more than one word meaning, separate the words with commas.</string>
+    <string name="add_category">Add category</string>
+
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="word_exist">This word is already added.</string>
+
+    <string name="writing_game_description">Write down the equivalent of the given word. If you want to finish the game, press the button at the top right of the screen.</string>
+
+    <string name="update_category_name">Update Category Name</string>
+    <string name="update">Update</string>
+
+    <string name="delete">Delete</string>
+    <string name="delete_warning">Are you sure you want to delete? This action cannot be undone.</string>
+    <string name="word">Word</string>
+    <string name="category">Category</string>
+    <string name="word_importance_level">Word Importance Level</string>
+    <string name="low">Low</string>
+    <string name="medium">Medium</string>
+    <string name="high">High</string>
+    <string name="sort_importance_level">Sort Importance Level</string>
+    <string name="update_word">Update Word</string>
+    <string name="delete_word">Delete Word</string>
+    <string name="delete_category">Delete Category</string>
+</resources>
